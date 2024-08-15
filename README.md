@@ -1,6 +1,10 @@
 
 # Crowdfunding_ETL Project 2 
-Crowdfunding_ETL Project 2 Repo - Zahra Razook and Rakhi Singh
+## Project 2 | Group 5 | Team Members Name-
+*Zahra Razook
+
+*Rakhi Singh
+
 
 #### Table of Contents
 
